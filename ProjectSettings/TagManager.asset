@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - door0
+  - door1
+  - damage
+  - Puzzle
+  - vase0
+  - vase1
+  - vase2
+  - Ghoul
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bounds
+  - PostProcessing
+  - Stairs
+  - Player
+  - Puzzle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bkg
+    uniqueID: 1152071535
+    locked: 0
+  - name: midgr
+    uniqueID: 1962314737
+    locked: 0
+  - name: fgr
+    uniqueID: 464851059
+    locked: 0
+  - name: player
+    uniqueID: 395472427
+    locked: 0
+  - name: UI
+    uniqueID: 2369795965
+    locked: 0
